@@ -1,5 +1,5 @@
 name: assignment-test
-on:[push]
+on: [push]
 jobs:
       full-test:  
         runs-on: self-hosted
